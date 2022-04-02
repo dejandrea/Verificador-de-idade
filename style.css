@@ -19,3 +19,8 @@ footer{
     text-align: center;
     font-style: italic;
 }
+#foto{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+}
