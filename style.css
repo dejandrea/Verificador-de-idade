@@ -19,8 +19,17 @@ footer{
     text-align: center;
     font-style: italic;
 }
+
+#verificar{
+    border-radius: 15px;
+    background-color: rgba(0, 225, 255, 0.925);
+}
+
 #foto{
     width: 150px;
     height: 150px;
-    border-radius: 150px;
+    border-radius: 120px;
+    border-style: double;
+    margin: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.418);
 }
